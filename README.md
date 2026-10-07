@@ -2,67 +2,30 @@
 
 # BTK Web Geliştirme Çalışmaları
 
-### Web arayüzlerinin ilk yapı taşları.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=2200&color=38bdf8&background=0D1117&center=true&vCenter=true&width=760&height=76&lines=Web%20aray%C3%BCzlerinin%20ilk%20yap%C4%B1%20ta%C5%9Flar%C4%B1." alt="Web arayüzlerinin ilk yapı taşları." width="760" />
 
-![HTML](https://img.shields.io/badge/HTML-2563eb?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-0891b2?style=for-the-badge)
+<br />
+
+<img alt="HTML" src="https://img.shields.io/badge/HTML-38bdf8?style=for-the-badge" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-2563eb?style=for-the-badge" />
+
+<br /><br />
 
 BTK eğitimi kapsamında hazırlanmış HTML yapısı ve CSS biçimlendirme örneklerini içeren çalışma deposu.
 
-**HTML ve CSS temelleri**
+<br />
 
-[Projeyi keşfet](https://github.com/silanpehlivan/BTKEgitimi/tree/main) · [Kurulum ve ayrıntılar](#projeyi-çalıştırmak-ve-incelemek)
+**Başlıklar, metin biçimlendirme ve listeler** &nbsp; · &nbsp; **Bağlantılar ve görseller** &nbsp; · &nbsp; **CSS seçicileri, renkler, kenarlıklar ve menü düzeni**
+
+<br /><br />
+
+[![Projeyi keşfet](https://img.shields.io/badge/PROJEYİ_KEŞFET-2563eb?style=for-the-badge)](https://github.com/silanpehlivan/BTKEgitimi/tree/main)
+[![Kurulum](https://img.shields.io/badge/KURULUM_&_TEKNİK_NOTLAR-334155?style=for-the-badge)](PROJECT_GUIDE.md)
 
 </div>
 
 ---
 
-## İçeride neler var?
-
-- **01** · Başlıklar, metin biçimlendirme ve listeler
-- **02** · Bağlantılar ve görseller
-- **03** · CSS seçicileri, renkler, kenarlıklar ve menü düzeni
-
-## Projeyi çalıştırmak ve incelemek
-
-<details>
-<summary><strong>Kurulum, kod yapısı ve teknik notları aç</strong></summary>
-
-## Öne Çıkanlar
-
-- Başlıklar, metin biçimlendirme ve listeler
-- Bağlantılar ve görseller
-- CSS seçicileri, renkler, kenarlıklar ve menü düzeni
-
-## Teknolojiler
-
-HTML · CSS
-
-### Teknik yaklaşım
-
-HTML içerik yapısı ve CSS sunum katmanı ayrı örnek dosyalarıyla incelenebilir. Tarayıcıda dosyaları açarak seçicilerin ve biçimlendirme kurallarının etkisi gözlemlenir.
-
-### Kodu incelemeye başlayın
-
-- [Hafta01_CSS.html](Hafta01_CSS.html)
-- [Hafta01_HTML.html](Hafta01_HTML.html)
-
-### Kapsam ve sınırlar
-
-Statik eğitim örnekleridir; sunucu, veri tabanı veya kimlik doğrulama katmanı içermez.
-
-## Kullanım
-
-`Hafta01_HTML.html` veya `Hafta01_CSS.html` dosyasını tarayıcıda açın. Örnekler ek kurulum gerektirmez; görseller `img/` dizininde bulunur.
-
-</details>
-
----
-
 <div align="center">
-
-**© 2026 Şilan Pehlivan**
-
-Bu depoda bir lisans dosyası bulunmamaktadır.
-
+<sub>© 2026 Şilan Pehlivan</sub>
 </div>
